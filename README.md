@@ -33,3 +33,6 @@ pip install langchain
 pip install langchain_experimental
 pip install sentence-transformers
 pip install faiss-cpu
+
+
+![Capture d'écran 2025-02-19 203651](https://github.com/user-attachments/assets/6d1b727c-0ec5-4c3a-85bc-f87e952ca004)
